@@ -1,8 +1,10 @@
+![Aramis Agrapart (3)](https://github.com/user-attachments/assets/237c0f04-0a42-460e-a89f-e0e835cbdc36)
+
 👋 Hi, I’m @aramisagrapart
 
 🌱 I’m interested in data analytics, fashion, environnement and sociology
 
-👀 I’m currently learning SQL and Python
+👀 I’m currently learning SQL, Python and data visualisation
 
 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aramis-agrapart/)](https://www.linkedin.com/in/aramis-agrapart/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@agrapart.aramis@gmail.com)](mailto:mail@agrapart.aramis@gmail.com)
