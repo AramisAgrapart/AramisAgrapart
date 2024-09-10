@@ -1,4 +1,4 @@
-![Aramis Agrapart (3)](https://github.com/user-attachments/assets/237c0f04-0a42-460e-a89f-e0e835cbdc36)
+![Aramis Agrapart (4)](https://github.com/user-attachments/assets/c19242cd-3922-43c2-b8d0-2164856ee604)
 
 👋 Hi, I’m @aramisagrapart
 
